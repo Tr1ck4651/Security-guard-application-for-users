@@ -1,7 +1,8 @@
 # Security-guard-application-for-users
 
 Система контроля и управления доступом (СКУД)
-
+## Скачать exe
+[Приложение](https://drive.google.com/drive/folders/1xATAGSu2cSIyUVcuItIhZWhiKpU1BRix?usp=sharing)
 ## Техническое задание 
 [Наше тз по приложению](https://github.com/Tr1ck4651/Security-guard-application-for-users/blob/c2eacc29974c322435cc8240496bedaf98e85241/module_5.pdf)
 
@@ -30,3 +31,5 @@
 - Все данные хранятся локально в JSON файлах
 - Для корректной работы эмулятора необходимо наличие одобренных заявок на пропуск
 
+Код:
+Если есть желание можно ознакомится с [кодом](https://github.com/Tr1ck4651/THE-GUARD)
